@@ -1,0 +1,92 @@
+{
+  "1": {
+    "livro": "Gênesis",
+    "capitulo": 1,
+    "versiculo": 1,
+    "texto": "No princípio, Deus criou os céus e a terra."
+  },
+  "2": {
+    "livro": "Êxodo",
+    "capitulo": 20,
+    "versiculo": 3,
+    "texto": "Não terás outros deuses diante de mim."
+  },
+  "3": {
+    "livro": "Salmos",
+    "capitulo": 23,
+    "versiculo": 1,
+    "texto": "O Senhor é o meu pastor; nada me faltará."
+  },
+  "4": {
+    "livro": "Provérbios",
+    "capitulo": 3,
+    "versiculo": 5,
+    "texto": "Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento."
+  },
+  "5": {
+    "livro": "Isaías",
+    "capitulo": 40,
+    "versiculo": 31,
+    "texto": "Mas os que esperam no Senhor renovam as suas forças; sobem com asas como águias; correm e não se cansam; caminham e não desfalecem."
+  },
+  "6": {
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculo": 16,
+    "texto": "Assim brilhe também a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai que está nos céus."
+  },
+  "7": {
+    "livro": "João",
+    "capitulo": 3,
+    "versiculo": 16,
+    "texto": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigénito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+  },
+  "8": {
+    "livro": "Romanos",
+    "capitulo": 8,
+    "versiculo": 28,
+    "texto": "E sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
+  },
+  "9": {
+    "livro": "1 Coríntios",
+    "capitulo": 13,
+    "versiculo": 4,
+    "texto": "O amor é paciente, é benigno; o amor não arde em ciúmes, não se ufana, não se ensoberbece."
+  },
+  "10": {
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculo": 22,
+    "texto": "Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança."
+  },
+  "11": {
+    "livro": "Efésios",
+    "capitulo": 6,
+    "versiculo": 11,
+    "texto": "Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo."
+  },
+  "12": {
+    "livro": "Filipenses",
+    "capitulo": 4,
+    "versiculo": 6,
+    "texto": "Não estejais inquietos por coisa alguma; antes, as vossas petições sejam em tudo conhecidas diante de Deus, pela oração e súplicas, com ação de graças."
+  },
+  "13": {
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculo": 23,
+    "texto": "E tudo quanto fizerdes, fazei-o de todo o coração, como ao Senhor e não aos homens,"
+  },
+  "14": {
+    "livro": "1 Timóteo",
+    "capitulo": 6,
+    "versiculo": 10,
+    "texto": "Porque o amor ao dinheiro é raiz de todos os males; e alguns, nessa cobiça, se desviaram da fé e a si mesmos se atormentaram com muitas dores."
+  },
+  "15": {
+    "livro": "Apocalipse",
+    "capitulo": 21,
+    "versiculo": 4,
+    "texto": "E Deus limpará de seus olhos toda lágrima, e não haverá mais morte, nem pranto, nem clamor, nem dor; porque já as primeiras coisas são passadas."
+  }
+}
